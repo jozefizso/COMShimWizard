@@ -57,13 +57,10 @@ namespace ManagedHelpers
             finally
             {
                 if (pOuter != IntPtr.Zero)
-                {
                     Marshal.Release(pOuter);
-                }
                 if (pInner != IntPtr.Zero)
-                {
                     Marshal.Release(pInner);
-                }
+                Marshal.ReleaseComObject(outerObject);
             }
         }
     }

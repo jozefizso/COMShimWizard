@@ -17,7 +17,6 @@ public:
 private:
     HRESULT LoadCLR();
     HRESULT CreateAppDomain(LPCWSTR szAssemblyConfigName);
-    HRESULT GetDllDirectory(TCHAR *szPath, DWORD nPathBufferSize);
 
     ICorRuntimeHost *m_pCorRuntimeHost;
     mscorlib::_AppDomain *m_pAppDomain;
