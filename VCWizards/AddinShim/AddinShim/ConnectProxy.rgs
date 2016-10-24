@@ -1,0 +1,25 @@
+HKCR
+{
+	[!output CONNECT_CLASS_PROGID] = s 'Connect Class'
+	{
+		CLSID = s '{[!output CONNECT_REGISTRY_FORMAT]}'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove '{[!output CONNECT_REGISTRY_FORMAT]}' = s '[!output CONNECT_CLASS_PROGID]'
+		{
+			ProgID = s '[!output CONNECT_CLASS_PROGID]'
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			[!output ADDIN_PROGRAMMABLE]
+		}
+	}
+}
+
+[!output ADDIN_REGISTRY_HOSTS]
+[!output BLOG_ADDIN_KEY]
+[!output ENCRYPTION_ADDIN_KEY]
+[!output FORMREGION_ADDIN_KEY]
+[!output DOCUMENT_INSPECTOR_ADDIN_KEY]

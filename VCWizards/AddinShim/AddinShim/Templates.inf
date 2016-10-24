@@ -1,0 +1,13 @@
+stdafx.cpp
+stdafx.h
+connectproxy.h
+connectproxy.cpp
+connectproxy.rgs
+interop.h
+clrloader.h
+clrloader.cpp
+root.cpp
+resource.h
+root.rc
+root.idl
+root.def
