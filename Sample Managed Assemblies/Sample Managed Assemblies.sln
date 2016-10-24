@@ -1,14 +1,14 @@
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAddin", "TestAddin\TestAddin.csproj", "{EB153500-C03B-45E2-A10D-1C44C7BCF996}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAddin", "TestAddin\TestAddin\TestAddin.csproj", "{EB153500-C03B-45E2-A10D-1C44C7BCF996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRealTimeData", "TestRealTimeData\TestRealTimeData.csproj", "{85E26AD0-EBFA-430D-9B11-2F1F8EC30F02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRealTimeData", "TestRealTimeData\TestRealTimeData\TestRealTimeData.csproj", "{85E26AD0-EBFA-430D-9B11-2F1F8EC30F02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSmartTagAction", "TestSmartTagAction\TestSmartTagAction.csproj", "{68574294-7189-4A2D-93A3-BE32580C27C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSmartTagAction", "TestSmartTagAction\TestSmartTagAction\TestSmartTagAction.csproj", "{68574294-7189-4A2D-93A3-BE32580C27C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSmartTagRecognizer", "TestSmartTagRecognizer\TestSmartTagRecognizer.csproj", "{DA4B3BC2-8C36-4754-B637-6B5A8B79DECC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSmartTagRecognizer", "TestSmartTagRecognizer\TestSmartTagRecognizer\TestSmartTagRecognizer.csproj", "{DA4B3BC2-8C36-4754-B637-6B5A8B79DECC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSmartTagRecognizerAction", "TestSmartTagRecognizerAction\TestSmartTagRecognizerAction.csproj", "{FF92973B-4D32-4DE3-8205-B4BD37BFC665}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSmartTagRecognizerAction", "TestSmartTagRecognizerAction\TestSmartTagRecognizerAction\TestSmartTagRecognizerAction.csproj", "{FF92973B-4D32-4DE3-8205-B4BD37BFC665}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInfoPathAddin", "TestInfoPathAddin\TestInfoPathAddin\TestInfoPathAddin.csproj", "{C6DBF3F2-F44D-4C15-97F9-249DE34D410F}"
 EndProject
