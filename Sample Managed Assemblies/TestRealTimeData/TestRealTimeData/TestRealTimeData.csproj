@@ -83,7 +83,7 @@
     <COMReference Include="Excel">
       <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
       <VersionMajor>1</VersionMajor>
-      <VersionMinor>5</VersionMinor>
+      <VersionMinor>6</VersionMinor>
       <Lcid>0</Lcid>
       <WrapperTool>primary</WrapperTool>
     </COMReference>
