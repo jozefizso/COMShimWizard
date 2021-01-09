@@ -1,0 +1,15 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabAddIns">
+        <group id="MyGroup" label="TestAddin">
+          <toggleButton id="toggleTaskPane" 
+                        label="TaskPane"
+                        imageMso="ControlLayoutStacked" 
+                        size="large" 
+                        onAction="OnToggleTaskPane" />
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>

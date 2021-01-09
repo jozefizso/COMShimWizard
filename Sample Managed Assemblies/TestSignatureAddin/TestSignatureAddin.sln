@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSignatureAddin", "TestSignatureAddin\TestSignatureAddin.csproj", "{68B216C6-57E4-452F-828D-FB956F4006C5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TestSignatureAddinSetup", "TestSignatureAddinSetup\TestSignatureAddinSetup.vdproj", "{DD3561A0-EE59-4107-932F-7D3823DD0750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B216C6-57E4-452F-828D-FB956F4006C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B216C6-57E4-452F-828D-FB956F4006C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B216C6-57E4-452F-828D-FB956F4006C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B216C6-57E4-452F-828D-FB956F4006C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3561A0-EE59-4107-932F-7D3823DD0750}.Debug|Any CPU.ActiveCfg = Debug
+		{DD3561A0-EE59-4107-932F-7D3823DD0750}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

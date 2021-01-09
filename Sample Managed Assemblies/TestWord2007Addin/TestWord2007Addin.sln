@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWord2007Addin", "TestWord2007Addin\TestWord2007Addin.csproj", "{305A430B-CD48-4FF1-AFDC-FFCC77CD0EA0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TestWord2007AddinSetup", "TestWord2007AddinSetup\TestWord2007AddinSetup.vdproj", "{4A1B3C33-9323-4D01-8F25-CE11E801DE79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305A430B-CD48-4FF1-AFDC-FFCC77CD0EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305A430B-CD48-4FF1-AFDC-FFCC77CD0EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305A430B-CD48-4FF1-AFDC-FFCC77CD0EA0}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{305A430B-CD48-4FF1-AFDC-FFCC77CD0EA0}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{305A430B-CD48-4FF1-AFDC-FFCC77CD0EA0}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{305A430B-CD48-4FF1-AFDC-FFCC77CD0EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305A430B-CD48-4FF1-AFDC-FFCC77CD0EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305A430B-CD48-4FF1-AFDC-FFCC77CD0EA0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{305A430B-CD48-4FF1-AFDC-FFCC77CD0EA0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{305A430B-CD48-4FF1-AFDC-FFCC77CD0EA0}.Release|Win32.ActiveCfg = Release|Any CPU
+		{4A1B3C33-9323-4D01-8F25-CE11E801DE79}.Debug|Any CPU.ActiveCfg = Debug
+		{4A1B3C33-9323-4D01-8F25-CE11E801DE79}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{4A1B3C33-9323-4D01-8F25-CE11E801DE79}.Debug|Mixed Platforms.Build.0 = Debug
+		{4A1B3C33-9323-4D01-8F25-CE11E801DE79}.Debug|Win32.ActiveCfg = Debug
+		{4A1B3C33-9323-4D01-8F25-CE11E801DE79}.Debug|Win32.Build.0 = Debug
+		{4A1B3C33-9323-4D01-8F25-CE11E801DE79}.Release|Any CPU.ActiveCfg = Release
+		{4A1B3C33-9323-4D01-8F25-CE11E801DE79}.Release|Mixed Platforms.ActiveCfg = Release
+		{4A1B3C33-9323-4D01-8F25-CE11E801DE79}.Release|Mixed Platforms.Build.0 = Release
+		{4A1B3C33-9323-4D01-8F25-CE11E801DE79}.Release|Win32.ActiveCfg = Release
+		{4A1B3C33-9323-4D01-8F25-CE11E801DE79}.Release|Win32.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
