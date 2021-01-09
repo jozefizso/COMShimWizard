@@ -1,5 +1,5 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
+Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2005
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEncryptionAddin", "TestEncryptionAddin\TestEncryptionAddin.csproj", "{3A2F6D0C-4D57-4FFB-8F58-1CA683082293}"
 EndProject

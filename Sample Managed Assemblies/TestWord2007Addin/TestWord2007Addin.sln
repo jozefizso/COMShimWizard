@@ -1,5 +1,5 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
+Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2005
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWord2007Addin", "TestWord2007Addin\TestWord2007Addin.csproj", "{305A430B-CD48-4FF1-AFDC-FFCC77CD0EA0}"
 EndProject

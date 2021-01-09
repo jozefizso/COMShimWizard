@@ -1,14 +1,6 @@
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAddin", "TestAddin\TestAddin.csproj", "{EB153500-C03B-45E2-A10D-1C44C7BCF996}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRealTimeData", "TestRealTimeData\TestRealTimeData.csproj", "{85E26AD0-EBFA-430D-9B11-2F1F8EC30F02}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSmartTagAction", "TestSmartTagAction\TestSmartTagAction.csproj", "{68574294-7189-4A2D-93A3-BE32580C27C6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSmartTagRecognizer", "TestSmartTagRecognizer\TestSmartTagRecognizer.csproj", "{DA4B3BC2-8C36-4754-B637-6B5A8B79DECC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSmartTagRecognizerAction", "TestSmartTagRecognizerAction\TestSmartTagRecognizerAction.csproj", "{FF92973B-4D32-4DE3-8205-B4BD37BFC665}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAddin", "TestAddin\TestAddin\TestAddin.csproj", "{EB153500-C03B-45E2-A10D-1C44C7BCF996}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInfoPathAddin", "TestInfoPathAddin\TestInfoPathAddin\TestInfoPathAddin.csproj", "{C6DBF3F2-F44D-4C15-97F9-249DE34D410F}"
 EndProject
@@ -38,18 +30,6 @@ Global
 		{EB153500-C03B-45E2-A10D-1C44C7BCF996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB153500-C03B-45E2-A10D-1C44C7BCF996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB153500-C03B-45E2-A10D-1C44C7BCF996}.Release|Any CPU.Build.0 = Release|Any CPU
-		{85E26AD0-EBFA-430D-9B11-2F1F8EC30F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{85E26AD0-EBFA-430D-9B11-2F1F8EC30F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{85E26AD0-EBFA-430D-9B11-2F1F8EC30F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{85E26AD0-EBFA-430D-9B11-2F1F8EC30F02}.Release|Any CPU.Build.0 = Release|Any CPU
-		{68574294-7189-4A2D-93A3-BE32580C27C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68574294-7189-4A2D-93A3-BE32580C27C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68574294-7189-4A2D-93A3-BE32580C27C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68574294-7189-4A2D-93A3-BE32580C27C6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DA4B3BC2-8C36-4754-B637-6B5A8B79DECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA4B3BC2-8C36-4754-B637-6B5A8B79DECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF92973B-4D32-4DE3-8205-B4BD37BFC665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF92973B-4D32-4DE3-8205-B4BD37BFC665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6DBF3F2-F44D-4C15-97F9-249DE34D410F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C6DBF3F2-F44D-4C15-97F9-249DE34D410F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6DBF3F2-F44D-4C15-97F9-249DE34D410F}.Release|Any CPU.ActiveCfg = Release|Any CPU

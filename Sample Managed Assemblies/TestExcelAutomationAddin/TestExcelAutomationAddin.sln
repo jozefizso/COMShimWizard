@@ -1,5 +1,5 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
+Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2005
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExcelAutomationAddin", "TestExcelAutomationAddin\TestExcelAutomationAddin.csproj", "{289016DA-7DB7-41B5-88C5-A12D4520C4C4}"
 EndProject
